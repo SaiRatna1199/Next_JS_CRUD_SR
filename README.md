@@ -40,8 +40,12 @@ Add .env.local file in the project folder level and place below code init with y
 
 DB_SERVER="DESKTOP-D123DS8\\SQLEXPRESS"
 DB_USER="YOUR_USER_NAME"
+
 DB_PASSWORD="YOUR_PASSWORD"
+
 DB_NAME="YOUR_DATABASE_NAME"
+
 NEXTAUTH_SECRET=IB2uoxXRZkKnj/vIebgBJ2eEdKEWhZ2jZ+sbpETxY4o=
+
 NEXTAUTH_URL=http://localhost:3000
 
