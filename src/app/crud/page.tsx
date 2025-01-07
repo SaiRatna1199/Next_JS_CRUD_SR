@@ -297,7 +297,7 @@ export default function Crud() {
                  <div style={{margin:"5px"}}></div>
                  
                  <Col>
-                 <Col></Col>
+                 <Col style={{color:"white"}}>Action</Col>
                 <Row>
                   <Button className="btn btn-primary" onClick={handleSubmit}>{id==0?'Submit':'Update'}     </Button>
                   <div style={{margin:"5px"}}></div>
