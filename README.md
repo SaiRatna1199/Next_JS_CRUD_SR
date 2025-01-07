@@ -39,6 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Add .env.local file in the project folder level and place below code init with your credientials
 
 DB_SERVER="DESKTOP-D123DS8\\SQLEXPRESS"
+
 DB_USER="YOUR_USER_NAME"
 
 DB_PASSWORD="YOUR_PASSWORD"
